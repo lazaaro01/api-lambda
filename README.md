@@ -1,4 +1,4 @@
-# ✨ API REST com Spring Boot, Lambda e Swagger ✨
+# 🚀 API REST com Spring Boot, Lambda e Swagger 🚀
 
 Este projeto é uma API REST simples de **gerenciamento de clientes**, desenvolvida com **Spring Boot**. Ele utiliza **funções lambda** para manipulação de dados e **Swagger** para documentação da API.
 
